@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Hind Siliguri", "Noto Sans Bengali", "Kalpurush", system-ui, sans-serif;
+  background: #f1f5f9;
+}
